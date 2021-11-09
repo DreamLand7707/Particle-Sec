@@ -31,5 +31,5 @@ int main()
     }
     getchar();
     getchar();
-    return 8;
+    return 0;
 }
