@@ -35,7 +35,7 @@ int main()
 }
 int prinCoord(int x, int y,int z){
   // 输出坐标
-  scanf(“%d%d%d”&x,&y,&z);
+  scanf(“%d%d%d”,&x,&y,&z);
   
   return x,y,z;
 }
