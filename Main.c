@@ -33,12 +33,3 @@ int main()
     getchar();
     return 0;
 }
-int prinCoord(int x, int y,int z){
-  // 输出坐标
-  scanf(“%d%d%d”,&x,&y,&z);
-  //算法：
-  
-  
-  
-  return x,y,z;
-}
