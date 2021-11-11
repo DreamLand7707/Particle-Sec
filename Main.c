@@ -33,3 +33,6 @@ int main()
     getchar();
     return 0;
 }
+int prinOne(int x,int y,int z){
+  
+}
