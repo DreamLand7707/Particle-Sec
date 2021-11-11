@@ -33,8 +33,7 @@ int main()
     getchar();
     return 0;
 }
-int prinCoord(x,y,z){
-  int x;int y;int z;
+int prinCoord(int x, int y,int z){
   scanf();
   return x,y,z;
 }
