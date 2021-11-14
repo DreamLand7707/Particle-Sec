@@ -22,11 +22,20 @@ int main()
         {
             char b1;
             extern void f21(void);
+            extern void f22(void);
             printf("Please putin the parameter mode.\n");
             printf("We have two mode:\"1&2\".\n");
             getchar();
             b1=getchar();
-            f21();
+            if(b1=='1')
+            {
+                f21();
+            }
+            else
+            {
+                f22();
+                putchar('\n');
+            }
             break;
         }
     }
