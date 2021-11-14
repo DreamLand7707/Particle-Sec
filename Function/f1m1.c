@@ -8,8 +8,8 @@ void f11(void)
 {
     printf("The mode haven't been set!");
 
-    float XYZ1[3],XYZ2[3],XYZ1X[3],XYZ2X[3],O[3];
-    float H,a,b,c,,d;
+    float XYZ1[3],XYZ2[3],XYZ1X[3],XYZ2X[3],O[3];//×ø±ê
+    float H,a,b,c,,d; //²ÎÊý
     int i,j=0;
     
 
