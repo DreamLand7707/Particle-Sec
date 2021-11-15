@@ -29,7 +29,7 @@ void f11(void)
         XYZ2X[j]=XYZ1[j]-O[j];
     }
 //Ëã·¨
-    a=
+    a=XYZ1X[0]              
     b=
     c=
     d=
